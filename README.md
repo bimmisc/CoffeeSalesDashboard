@@ -34,6 +34,6 @@ This practice project was done by referencing (following) a walkthrough video cr
 <h2>Dashboard</h2>
 
 <p align="center">
-<img src="Number of Rides.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="CoffeeSalesDashboard.png" height="80%" width="80%" alt="Dashboard"/>
 <p/><br />
 <br />
