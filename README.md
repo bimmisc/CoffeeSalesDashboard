@@ -2,7 +2,7 @@
 
 <h2>Project Description</h2>
 
-This practice project was done by referencing (following) a walkthrough video created by a YouTuber, Mo Chen <https://www.youtube.com/watch?v=m13o5aqeCbM>, who showed how to create visualizations and dashboards in Excel. The project involved data processing, data cleaning, and creating pivot tables, charts, and a dashboard<br />
+This practice project was done by referencing (following) a walkthrough video created by a YouTuber, [Mo Chen](https://www.youtube.com/watch?v=m13o5aqeCbM), who showed how to create visualizations and dashboards in Excel. The project involved data processing, data cleaning, and creating pivot tables, charts, and a dashboard<br />
 <br />
 
 <h2>Data Analysis Program Used </h2>
