@@ -24,9 +24,15 @@ This practice project was done by referencing (following) a walkthrough video cr
 <br />
 <br />
 
+<h2>Brief Description</h2>
+
 <b> 1) The first few steps in this project involved data cleaning using different formulas and functions, as listed above. 
 2) After data cleaning, pivot tables and charts were created
 3) All charts created were organized on a Dashboard, as shown below<b> <br/>
+<br />
+
+<h2>Dashboard</h2>
+
 <p align="center">
 <img src="Number of Rides.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p/><br />
