@@ -21,7 +21,8 @@ This practice project was done by referencing (following) a walkthrough video cr
 - <b>Check for Duplicates</b>
 - <b>Pivot Tables</b>
 - <b>Insert Timeline and Slicer</b>
-
+<br />
+<br />
 
 <b> 1) The first few steps in this project involved data cleaning using different formulas and functions, as listed above. 
 2) After data cleaning, pivot tables and charts were created
