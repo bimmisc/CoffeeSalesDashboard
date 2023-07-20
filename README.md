@@ -8,7 +8,7 @@ This practice project was done by referencing (following) a walkthrough video cr
 <h2>Data Analysis Program Used </h2>
 
 - <b>Microsoft Excel</b>
-
+<br />
 
 <h2>Formula and Functions Used</h2>
 
@@ -22,13 +22,12 @@ This practice project was done by referencing (following) a walkthrough video cr
 - <b>Pivot Tables</b>
 - <b>Insert Timeline and Slicer</b>
 <br />
-<br />
 
 <h2>Brief Description</h2>
 
-<b> 1) The first few steps in this project involved data cleaning using different formulas and functions, as listed above. 
-2) After data cleaning, pivot tables and charts were created
-3) All charts created were organized on a Dashboard, as shown below<b> <br/>
+<b> 1) The first few steps in this project involved data cleaning using different formulas and functions, as listed above. <br/>
+2) After data cleaning, pivot tables and charts were created.<br/>
+3) All charts created were organized on a Dashboard, as shown below.<b> <br/>
 <br />
 
 <h2>Dashboard</h2>
